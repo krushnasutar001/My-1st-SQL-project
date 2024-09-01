@@ -9,7 +9,7 @@ Analyze sales trends by time of day.
 Explore category-wise distribution of pizzas.
 
 
-Here’s a structured description for your SQL project, including the analysis you’ve performed:
+Here’s a structured description SQL project, including the analysis performed:
 
 Project Title: Pizza Sales Data Analysis
 Project Overview
